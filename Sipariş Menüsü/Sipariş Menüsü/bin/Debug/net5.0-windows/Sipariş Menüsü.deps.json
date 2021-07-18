@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Sipariş Menüsü/1.0.0": {
+        "runtime": {
+          "Sipariş Menüsü.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sipariş Menüsü/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

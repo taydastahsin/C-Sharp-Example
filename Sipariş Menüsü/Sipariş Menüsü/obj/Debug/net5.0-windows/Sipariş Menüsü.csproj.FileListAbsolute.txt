@@ -1,0 +1,19 @@
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\bin\Debug\net5.0-windows\Sipariş Menüsü.exe
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\bin\Debug\net5.0-windows\Sipariş Menüsü.deps.json
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\bin\Debug\net5.0-windows\Sipariş Menüsü.runtimeconfig.json
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\bin\Debug\net5.0-windows\Sipariş Menüsü.runtimeconfig.dev.json
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\bin\Debug\net5.0-windows\Sipariş Menüsü.dll
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\bin\Debug\net5.0-windows\ref\Sipariş Menüsü.dll
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\bin\Debug\net5.0-windows\Sipariş Menüsü.pdb
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş Menüsü.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş_Menüsü.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş Menüsü.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş Menüsü.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş Menüsü.AssemblyInfoInputs.cache
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş Menüsü.AssemblyInfo.cs
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş Menüsü.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş Menüsü.dll
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\ref\Sipariş Menüsü.dll
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş Menüsü.pdb
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş Menüsü.genruntimeconfig.cache
+C:\Users\TAHSİN\Source\Repos\Sipariş Menüsü\Sipariş Menüsü\obj\Debug\net5.0-windows\Sipariş_Menüsü.Properties.Resources.resources
