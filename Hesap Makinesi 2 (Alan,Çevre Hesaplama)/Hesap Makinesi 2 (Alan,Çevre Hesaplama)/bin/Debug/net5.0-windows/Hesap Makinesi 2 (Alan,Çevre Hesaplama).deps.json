@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Hesap Makinesi 2 (Alan,Çevre Hesaplama)/1.0.0": {
+        "runtime": {
+          "Hesap Makinesi 2 (Alan,Çevre Hesaplama).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hesap Makinesi 2 (Alan,Çevre Hesaplama)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,18 @@
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\bin\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).exe
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\bin\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).deps.json
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\bin\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).runtimeconfig.json
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\bin\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).runtimeconfig.dev.json
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\bin\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).dll
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\bin\Debug\net5.0-windows\ref\Hesap Makinesi 2 (Alan,Çevre Hesaplama).dll
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\bin\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).pdb
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\Hesap_Makinesi_2__Alan_Çevre_Hesaplama_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).AssemblyInfoInputs.cache
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).AssemblyInfo.cs
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).dll
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\ref\Hesap Makinesi 2 (Alan,Çevre Hesaplama).dll
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).pdb
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\Hesap Makinesi 2 (Alan,Çevre Hesaplama)\obj\Debug\net5.0-windows\Hesap Makinesi 2 (Alan,Çevre Hesaplama).genruntimeconfig.cache
