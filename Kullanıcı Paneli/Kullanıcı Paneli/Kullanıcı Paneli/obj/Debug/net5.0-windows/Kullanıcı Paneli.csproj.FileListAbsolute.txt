@@ -1,0 +1,19 @@
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\bin\Debug\net5.0-windows\Kullanıcı Paneli.exe
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\bin\Debug\net5.0-windows\Kullanıcı Paneli.deps.json
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\bin\Debug\net5.0-windows\Kullanıcı Paneli.runtimeconfig.json
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\bin\Debug\net5.0-windows\Kullanıcı Paneli.runtimeconfig.dev.json
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\bin\Debug\net5.0-windows\Kullanıcı Paneli.dll
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\bin\Debug\net5.0-windows\ref\Kullanıcı Paneli.dll
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\bin\Debug\net5.0-windows\Kullanıcı Paneli.pdb
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı Paneli.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı_Paneli.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı_Paneli.Form2.resources
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı Paneli.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı Paneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı Paneli.AssemblyInfoInputs.cache
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı Paneli.AssemblyInfo.cs
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı Paneli.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı Paneli.dll
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\ref\Kullanıcı Paneli.dll
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı Paneli.pdb
+C:\Users\TAHSİN\Source\Repos\Kullanıcı Paneli\Kullanıcı Paneli\Kullanıcı Paneli\obj\Debug\net5.0-windows\Kullanıcı Paneli.genruntimeconfig.cache
