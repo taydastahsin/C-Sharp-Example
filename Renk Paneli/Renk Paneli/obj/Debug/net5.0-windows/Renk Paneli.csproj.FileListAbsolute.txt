@@ -1,0 +1,19 @@
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\bin\Debug\net5.0-windows\Renk Paneli.exe
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\bin\Debug\net5.0-windows\Renk Paneli.deps.json
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\bin\Debug\net5.0-windows\Renk Paneli.runtimeconfig.json
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\bin\Debug\net5.0-windows\Renk Paneli.runtimeconfig.dev.json
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\bin\Debug\net5.0-windows\Renk Paneli.dll
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\bin\Debug\net5.0-windows\ref\Renk Paneli.dll
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\bin\Debug\net5.0-windows\Renk Paneli.pdb
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk_Paneli.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk_Paneli.Form2.resources
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk Paneli.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk Paneli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk Paneli.AssemblyInfoInputs.cache
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk Paneli.AssemblyInfo.cs
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk Paneli.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk Paneli.dll
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\ref\Renk Paneli.dll
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk Paneli.pdb
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk Paneli.genruntimeconfig.cache
+C:\Users\TAHSİN\Source\Repos\Renk Paneli\Renk Paneli\obj\Debug\net5.0-windows\Renk_Paneli.Properties.Resources.resources
