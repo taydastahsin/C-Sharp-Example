@@ -1,0 +1,17 @@
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\bin\Debug\net5.0-windows\Rastgele Sayı Üretme.exe
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\bin\Debug\net5.0-windows\Rastgele Sayı Üretme.deps.json
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\bin\Debug\net5.0-windows\Rastgele Sayı Üretme.runtimeconfig.json
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\bin\Debug\net5.0-windows\Rastgele Sayı Üretme.runtimeconfig.dev.json
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\bin\Debug\net5.0-windows\Rastgele Sayı Üretme.dll
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\bin\Debug\net5.0-windows\ref\Rastgele Sayı Üretme.dll
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\bin\Debug\net5.0-windows\Rastgele Sayı Üretme.pdb
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\obj\Debug\net5.0-windows\Rastgele_Sayı_Üretme.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\obj\Debug\net5.0-windows\Rastgele Sayı Üretme.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\obj\Debug\net5.0-windows\Rastgele Sayı Üretme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\obj\Debug\net5.0-windows\Rastgele Sayı Üretme.AssemblyInfoInputs.cache
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\obj\Debug\net5.0-windows\Rastgele Sayı Üretme.AssemblyInfo.cs
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\obj\Debug\net5.0-windows\Rastgele Sayı Üretme.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\obj\Debug\net5.0-windows\Rastgele Sayı Üretme.dll
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\obj\Debug\net5.0-windows\ref\Rastgele Sayı Üretme.dll
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\obj\Debug\net5.0-windows\Rastgele Sayı Üretme.pdb
+C:\Users\TAHSİN\Source\Repos\Rastgele Sayı Üretme\Rastgele Sayı Üretme\obj\Debug\net5.0-windows\Rastgele Sayı Üretme.genruntimeconfig.cache
