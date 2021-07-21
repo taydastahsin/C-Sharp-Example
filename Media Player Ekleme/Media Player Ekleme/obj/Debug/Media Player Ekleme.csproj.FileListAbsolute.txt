@@ -1,0 +1,15 @@
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\bin\Debug\Media Player Ekleme.exe.config
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\bin\Debug\Media Player Ekleme.exe
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\bin\Debug\Media Player Ekleme.pdb
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\bin\Debug\Interop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\obj\Debug\Media Player Ekleme.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\obj\Debug\Interop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\obj\Debug\Media Player Ekleme.csproj.ResolveComReference.cache
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\obj\Debug\Media_Player_Ekleme.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\obj\Debug\Media_Player_Ekleme.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\obj\Debug\Media Player Ekleme.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\obj\Debug\Media Player Ekleme.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\obj\Debug\Media Player Ekleme.exe
+C:\Users\TAHSİN\Source\Repos\Media Player Ekleme\Media Player Ekleme\obj\Debug\Media Player Ekleme.pdb
