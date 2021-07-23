@@ -1,0 +1,11 @@
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\bin\Debug\Lig Similasyonu.exe.config
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\bin\Debug\Lig Similasyonu.exe
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\bin\Debug\Lig Similasyonu.pdb
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\obj\Debug\Lig Similasyonu.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\obj\Debug\Lig_Similasyonu.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\obj\Debug\Lig_Similasyonu.Form2.resources
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\obj\Debug\Lig_Similasyonu.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\obj\Debug\Lig Similasyonu.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\obj\Debug\Lig Similasyonu.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\obj\Debug\Lig Similasyonu.exe
+C:\Users\TAHSİN\Source\Repos\Lig Similasyonu\Lig Similasyonu\obj\Debug\Lig Similasyonu.pdb
