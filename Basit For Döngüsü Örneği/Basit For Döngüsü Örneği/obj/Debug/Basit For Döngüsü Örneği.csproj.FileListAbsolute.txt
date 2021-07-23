@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği\Basit For Döngüsü Örneği\bin\Debug\Basit For Döngüsü Örneği.exe.config
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği\Basit For Döngüsü Örneği\bin\Debug\Basit For Döngüsü Örneği.exe
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği\Basit For Döngüsü Örneği\bin\Debug\Basit For Döngüsü Örneği.pdb
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği\Basit For Döngüsü Örneği\obj\Debug\Basit For Döngüsü Örneği.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği\Basit For Döngüsü Örneği\obj\Debug\Basit_For_Döngüsü_Örneği.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği\Basit For Döngüsü Örneği\obj\Debug\Basit_For_Döngüsü_Örneği.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği\Basit For Döngüsü Örneği\obj\Debug\Basit For Döngüsü Örneği.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği\Basit For Döngüsü Örneği\obj\Debug\Basit For Döngüsü Örneği.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği\Basit For Döngüsü Örneği\obj\Debug\Basit For Döngüsü Örneği.exe
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği\Basit For Döngüsü Örneği\obj\Debug\Basit For Döngüsü Örneği.pdb
