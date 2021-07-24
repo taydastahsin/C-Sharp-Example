@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\bin\Debug\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama).exe.config
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\bin\Debug\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama).exe
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\bin\Debug\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama).pdb
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\obj\Debug\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\obj\Debug\Basit_For_Döngüsü_Örneği_2__Faktoriyel_Hesaplama_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\obj\Debug\Basit_For_Döngüsü_Örneği_2__Faktoriyel_Hesaplama_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\obj\Debug\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\obj\Debug\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\obj\Debug\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama).exe
+C:\Users\TAHSİN\Source\Repos\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama)\obj\Debug\Basit For Döngüsü Örneği 2 (Faktoriyel Hesaplama).pdb
