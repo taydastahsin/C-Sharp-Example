@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basit For Döngüsü Örneği 1", "Basit For Döngüsü Örneği 1\Basit For Döngüsü Örneği 1.csproj", "{5DB5A973-36F5-4E6D-905B-E54A441FF377}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DB5A973-36F5-4E6D-905B-E54A441FF377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB5A973-36F5-4E6D-905B-E54A441FF377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB5A973-36F5-4E6D-905B-E54A441FF377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB5A973-36F5-4E6D-905B-E54A441FF377}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3191341A-576E-4E48-AD33-A3555DBD48A3}
+	EndGlobalSection
+EndGlobal
