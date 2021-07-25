@@ -1,0 +1,15 @@
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\bin\Debug\Radyo  APP Similasyonu.exe.config
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\bin\Debug\Radyo  APP Similasyonu.exe
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\bin\Debug\Radyo  APP Similasyonu.pdb
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\obj\Debug\Radyo  APP Similasyonu.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\obj\Debug\Radyo  APP Similasyonu.csproj.ResolveComReference.cache
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\obj\Debug\Radyo__APP_Similasyonu.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\obj\Debug\Radyo__APP_Similasyonu.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\obj\Debug\Radyo  APP Similasyonu.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\obj\Debug\Radyo  APP Similasyonu.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\obj\Debug\Radyo  APP Similasyonu.exe
+C:\Users\TAHSİN\Source\Repos\Radyo  APP Similasyonu\Radyo  APP Similasyonu\obj\Debug\Radyo  APP Similasyonu.pdb

@@ -1,0 +1,7 @@
+
+90’LAR = http://37.247.98.8/stream/166/ 
+
+112 ACiL FM = http://95.173.185.128:9316/; 
+KRAL POP = http://kralpopwmp.radyotvonline.com:80/; 
+
+TAKSİM FM = http://cast1.taksim.fm:8000/; 
