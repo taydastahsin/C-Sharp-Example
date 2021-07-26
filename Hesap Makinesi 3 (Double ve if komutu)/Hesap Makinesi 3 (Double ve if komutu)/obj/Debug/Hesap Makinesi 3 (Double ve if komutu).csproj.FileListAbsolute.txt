@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 3 (Double ve if komutu)\Hesap Makinesi 3 (Double ve if komutu)\obj\Debug\Hesap Makinesi 3 (Double ve if komutu).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 3 (Double ve if komutu)\Hesap Makinesi 3 (Double ve if komutu)\obj\Debug\Hesap_Makinesi_3__Double_ve_if_komutu_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 3 (Double ve if komutu)\Hesap Makinesi 3 (Double ve if komutu)\obj\Debug\Hesap_Makinesi_3__Double_ve_if_komutu_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 3 (Double ve if komutu)\Hesap Makinesi 3 (Double ve if komutu)\obj\Debug\Hesap Makinesi 3 (Double ve if komutu).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 3 (Double ve if komutu)\Hesap Makinesi 3 (Double ve if komutu)\obj\Debug\Hesap Makinesi 3 (Double ve if komutu).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 3 (Double ve if komutu)\Hesap Makinesi 3 (Double ve if komutu)\bin\Debug\Hesap Makinesi 3 (Double ve if komutu).exe.config
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 3 (Double ve if komutu)\Hesap Makinesi 3 (Double ve if komutu)\bin\Debug\Hesap Makinesi 3 (Double ve if komutu).exe
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 3 (Double ve if komutu)\Hesap Makinesi 3 (Double ve if komutu)\bin\Debug\Hesap Makinesi 3 (Double ve if komutu).pdb
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 3 (Double ve if komutu)\Hesap Makinesi 3 (Double ve if komutu)\obj\Debug\Hesap Makinesi 3 (Double ve if komutu).exe
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 3 (Double ve if komutu)\Hesap Makinesi 3 (Double ve if komutu)\obj\Debug\Hesap Makinesi 3 (Double ve if komutu).pdb
