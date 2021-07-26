@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Double Kullanım Örneği\Double Kullanım Örneği\bin\Debug\Double Kullanım Örneği.exe.config
+C:\Users\TAHSİN\Source\Repos\Double Kullanım Örneği\Double Kullanım Örneği\bin\Debug\Double Kullanım Örneği.exe
+C:\Users\TAHSİN\Source\Repos\Double Kullanım Örneği\Double Kullanım Örneği\bin\Debug\Double Kullanım Örneği.pdb
+C:\Users\TAHSİN\Source\Repos\Double Kullanım Örneği\Double Kullanım Örneği\obj\Debug\Double Kullanım Örneği.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Double Kullanım Örneği\Double Kullanım Örneği\obj\Debug\Double_Kullanım_Örneği.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Double Kullanım Örneği\Double Kullanım Örneği\obj\Debug\Double_Kullanım_Örneği.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Double Kullanım Örneği\Double Kullanım Örneği\obj\Debug\Double Kullanım Örneği.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Double Kullanım Örneği\Double Kullanım Örneği\obj\Debug\Double Kullanım Örneği.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Double Kullanım Örneği\Double Kullanım Örneği\obj\Debug\Double Kullanım Örneği.exe
+C:\Users\TAHSİN\Source\Repos\Double Kullanım Örneği\Double Kullanım Örneği\obj\Debug\Double Kullanım Örneği.pdb
