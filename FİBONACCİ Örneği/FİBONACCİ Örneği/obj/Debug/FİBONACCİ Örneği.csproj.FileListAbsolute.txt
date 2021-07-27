@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\FİBONACCİ Örneği\FİBONACCİ Örneği\bin\Debug\FİBONACCİ Örneği.exe.config
+C:\Users\TAHSİN\Source\Repos\FİBONACCİ Örneği\FİBONACCİ Örneği\bin\Debug\FİBONACCİ Örneği.exe
+C:\Users\TAHSİN\Source\Repos\FİBONACCİ Örneği\FİBONACCİ Örneği\bin\Debug\FİBONACCİ Örneği.pdb
+C:\Users\TAHSİN\Source\Repos\FİBONACCİ Örneği\FİBONACCİ Örneği\obj\Debug\FİBONACCİ Örneği.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\FİBONACCİ Örneği\FİBONACCİ Örneği\obj\Debug\FİBONACCİ_Örneği.Form1.resources
+C:\Users\TAHSİN\Source\Repos\FİBONACCİ Örneği\FİBONACCİ Örneği\obj\Debug\FİBONACCİ_Örneği.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\FİBONACCİ Örneği\FİBONACCİ Örneği\obj\Debug\FİBONACCİ Örneği.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\FİBONACCİ Örneği\FİBONACCİ Örneği\obj\Debug\FİBONACCİ Örneği.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\FİBONACCİ Örneği\FİBONACCİ Örneği\obj\Debug\FİBONACCİ Örneği.exe
+C:\Users\TAHSİN\Source\Repos\FİBONACCİ Örneği\FİBONACCİ Örneği\obj\Debug\FİBONACCİ Örneği.pdb
