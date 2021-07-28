@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Matematik İşlemler(Üssü,Karekök)\Matematik İşlemler(Üssü,Karekök)\bin\Debug\Matematik İşlemler(Üssü,Karekök).exe.config
+C:\Users\TAHSİN\Source\Repos\Matematik İşlemler(Üssü,Karekök)\Matematik İşlemler(Üssü,Karekök)\bin\Debug\Matematik İşlemler(Üssü,Karekök).exe
+C:\Users\TAHSİN\Source\Repos\Matematik İşlemler(Üssü,Karekök)\Matematik İşlemler(Üssü,Karekök)\bin\Debug\Matematik İşlemler(Üssü,Karekök).pdb
+C:\Users\TAHSİN\Source\Repos\Matematik İşlemler(Üssü,Karekök)\Matematik İşlemler(Üssü,Karekök)\obj\Debug\Matematik İşlemler(Üssü,Karekök).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Matematik İşlemler(Üssü,Karekök)\Matematik İşlemler(Üssü,Karekök)\obj\Debug\Matematik_İşlemler_Üssü_Karekök_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Matematik İşlemler(Üssü,Karekök)\Matematik İşlemler(Üssü,Karekök)\obj\Debug\Matematik_İşlemler_Üssü_Karekök_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Matematik İşlemler(Üssü,Karekök)\Matematik İşlemler(Üssü,Karekök)\obj\Debug\Matematik İşlemler(Üssü,Karekök).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Matematik İşlemler(Üssü,Karekök)\Matematik İşlemler(Üssü,Karekök)\obj\Debug\Matematik İşlemler(Üssü,Karekök).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Matematik İşlemler(Üssü,Karekök)\Matematik İşlemler(Üssü,Karekök)\obj\Debug\Matematik İşlemler(Üssü,Karekök).exe
+C:\Users\TAHSİN\Source\Repos\Matematik İşlemler(Üssü,Karekök)\Matematik İşlemler(Üssü,Karekök)\obj\Debug\Matematik İşlemler(Üssü,Karekök).pdb
