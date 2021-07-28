@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 4 (Radio Button)\Hesap Makinesi 4 (Radio Button)\bin\Debug\Hesap Makinesi 4 (Radio Button).exe.config
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 4 (Radio Button)\Hesap Makinesi 4 (Radio Button)\bin\Debug\Hesap Makinesi 4 (Radio Button).exe
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 4 (Radio Button)\Hesap Makinesi 4 (Radio Button)\bin\Debug\Hesap Makinesi 4 (Radio Button).pdb
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 4 (Radio Button)\Hesap Makinesi 4 (Radio Button)\obj\Debug\Hesap Makinesi 4 (Radio Button).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 4 (Radio Button)\Hesap Makinesi 4 (Radio Button)\obj\Debug\Hesap_Makinesi_4__Radio_Button_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 4 (Radio Button)\Hesap Makinesi 4 (Radio Button)\obj\Debug\Hesap_Makinesi_4__Radio_Button_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 4 (Radio Button)\Hesap Makinesi 4 (Radio Button)\obj\Debug\Hesap Makinesi 4 (Radio Button).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 4 (Radio Button)\Hesap Makinesi 4 (Radio Button)\obj\Debug\Hesap Makinesi 4 (Radio Button).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 4 (Radio Button)\Hesap Makinesi 4 (Radio Button)\obj\Debug\Hesap Makinesi 4 (Radio Button).exe
+C:\Users\TAHSİN\Source\Repos\Hesap Makinesi 4 (Radio Button)\Hesap Makinesi 4 (Radio Button)\obj\Debug\Hesap Makinesi 4 (Radio Button).pdb
