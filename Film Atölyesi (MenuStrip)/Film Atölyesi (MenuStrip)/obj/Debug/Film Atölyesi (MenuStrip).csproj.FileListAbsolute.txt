@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Film Atölyesi (MenuStrip)\Film Atölyesi (MenuStrip)\bin\Debug\Film Atölyesi (MenuStrip).exe.config
+C:\Users\TAHSİN\Source\Repos\Film Atölyesi (MenuStrip)\Film Atölyesi (MenuStrip)\bin\Debug\Film Atölyesi (MenuStrip).exe
+C:\Users\TAHSİN\Source\Repos\Film Atölyesi (MenuStrip)\Film Atölyesi (MenuStrip)\bin\Debug\Film Atölyesi (MenuStrip).pdb
+C:\Users\TAHSİN\Source\Repos\Film Atölyesi (MenuStrip)\Film Atölyesi (MenuStrip)\obj\Debug\Film Atölyesi (MenuStrip).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Film Atölyesi (MenuStrip)\Film Atölyesi (MenuStrip)\obj\Debug\Film_Atölyesi__MenuStrip_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Film Atölyesi (MenuStrip)\Film Atölyesi (MenuStrip)\obj\Debug\Film_Atölyesi__MenuStrip_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Film Atölyesi (MenuStrip)\Film Atölyesi (MenuStrip)\obj\Debug\Film Atölyesi (MenuStrip).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Film Atölyesi (MenuStrip)\Film Atölyesi (MenuStrip)\obj\Debug\Film Atölyesi (MenuStrip).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Film Atölyesi (MenuStrip)\Film Atölyesi (MenuStrip)\obj\Debug\Film Atölyesi (MenuStrip).exe
+C:\Users\TAHSİN\Source\Repos\Film Atölyesi (MenuStrip)\Film Atölyesi (MenuStrip)\obj\Debug\Film Atölyesi (MenuStrip).pdb
