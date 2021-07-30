@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\WebBrowser Örneği\WebBrowser Örneği\bin\Debug\WebBrowser Örneği.exe.config
+C:\Users\TAHSİN\Source\Repos\WebBrowser Örneği\WebBrowser Örneği\bin\Debug\WebBrowser Örneği.exe
+C:\Users\TAHSİN\Source\Repos\WebBrowser Örneği\WebBrowser Örneği\bin\Debug\WebBrowser Örneği.pdb
+C:\Users\TAHSİN\Source\Repos\WebBrowser Örneği\WebBrowser Örneği\obj\Debug\WebBrowser Örneği.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\WebBrowser Örneği\WebBrowser Örneği\obj\Debug\WebBrowser_Örneği.Form1.resources
+C:\Users\TAHSİN\Source\Repos\WebBrowser Örneği\WebBrowser Örneği\obj\Debug\WebBrowser_Örneği.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\WebBrowser Örneği\WebBrowser Örneği\obj\Debug\WebBrowser Örneği.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\WebBrowser Örneği\WebBrowser Örneği\obj\Debug\WebBrowser Örneği.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\WebBrowser Örneği\WebBrowser Örneği\obj\Debug\WebBrowser Örneği.exe
+C:\Users\TAHSİN\Source\Repos\WebBrowser Örneği\WebBrowser Örneği\obj\Debug\WebBrowser Örneği.pdb
