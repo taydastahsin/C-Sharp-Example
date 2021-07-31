@@ -1,0 +1,13 @@
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\bin\Debug\Seyahat Ajentesi (Veri Kaydı).exe.config
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\bin\Debug\Seyahat Ajentesi (Veri Kaydı).exe
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\bin\Debug\Seyahat Ajentesi (Veri Kaydı).pdb
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\obj\Debug\Seyahat Ajentesi (Veri Kaydı).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\obj\Debug\Seyahat_Ajentesi__Veri_Kaydı_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\obj\Debug\Seyahat_Ajentesi__Veri_Kaydı_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\obj\Debug\Seyahat Ajentesi (Veri Kaydı).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\obj\Debug\Seyahat Ajentesi (Veri Kaydı).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\obj\Debug\Seyahat Ajentesi (Veri Kaydı).exe
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\obj\Debug\Seyahat Ajentesi (Veri Kaydı).pdb
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\obj\Debug\Seyahat_Ajentesi__Veri_Kaydı_.Form2.resources
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\obj\Debug\Seyahat_Ajentesi__Veri_Kaydı_.Form3.resources
+C:\Users\TAHSİN\Source\Repos\Seyahat Ajentesi (Veri Kaydı)\Seyahat Ajentesi (Veri Kaydı)\obj\Debug\Seyahat_Ajentesi__Veri_Kaydı_.Form4.resources
