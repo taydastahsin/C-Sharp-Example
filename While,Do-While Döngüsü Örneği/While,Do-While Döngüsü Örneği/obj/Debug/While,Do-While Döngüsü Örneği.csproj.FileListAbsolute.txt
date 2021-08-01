@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\While,Do-While Döngüsü Örneği\While,Do-While Döngüsü Örneği\bin\Debug\While,Do-While Döngüsü Örneği.exe.config
+C:\Users\TAHSİN\Source\Repos\While,Do-While Döngüsü Örneği\While,Do-While Döngüsü Örneği\bin\Debug\While,Do-While Döngüsü Örneği.exe
+C:\Users\TAHSİN\Source\Repos\While,Do-While Döngüsü Örneği\While,Do-While Döngüsü Örneği\bin\Debug\While,Do-While Döngüsü Örneği.pdb
+C:\Users\TAHSİN\Source\Repos\While,Do-While Döngüsü Örneği\While,Do-While Döngüsü Örneği\obj\Debug\While,Do-While Döngüsü Örneği.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\While,Do-While Döngüsü Örneği\While,Do-While Döngüsü Örneği\obj\Debug\While_Do_While_Döngüsü_Örneği.Form1.resources
+C:\Users\TAHSİN\Source\Repos\While,Do-While Döngüsü Örneği\While,Do-While Döngüsü Örneği\obj\Debug\While_Do_While_Döngüsü_Örneği.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\While,Do-While Döngüsü Örneği\While,Do-While Döngüsü Örneği\obj\Debug\While,Do-While Döngüsü Örneği.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\While,Do-While Döngüsü Örneği\While,Do-While Döngüsü Örneği\obj\Debug\While,Do-While Döngüsü Örneği.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\While,Do-While Döngüsü Örneği\While,Do-While Döngüsü Örneği\obj\Debug\While,Do-While Döngüsü Örneği.exe
+C:\Users\TAHSİN\Source\Repos\While,Do-While Döngüsü Örneği\While,Do-While Döngüsü Örneği\obj\Debug\While,Do-While Döngüsü Örneği.pdb
