@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Sayaç Timer Örneği\Sayaç Timer Örneği\bin\Debug\Sayaç Timer Örneği.exe.config
+C:\Users\TAHSİN\Source\Repos\Sayaç Timer Örneği\Sayaç Timer Örneği\bin\Debug\Sayaç Timer Örneği.exe
+C:\Users\TAHSİN\Source\Repos\Sayaç Timer Örneği\Sayaç Timer Örneği\bin\Debug\Sayaç Timer Örneği.pdb
+C:\Users\TAHSİN\Source\Repos\Sayaç Timer Örneği\Sayaç Timer Örneği\obj\Debug\Sayaç Timer Örneği.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Sayaç Timer Örneği\Sayaç Timer Örneği\obj\Debug\Sayaç_Timer_Örneği.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Sayaç Timer Örneği\Sayaç Timer Örneği\obj\Debug\Sayaç_Timer_Örneği.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Sayaç Timer Örneği\Sayaç Timer Örneği\obj\Debug\Sayaç Timer Örneği.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Sayaç Timer Örneği\Sayaç Timer Örneği\obj\Debug\Sayaç Timer Örneği.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Sayaç Timer Örneği\Sayaç Timer Örneği\obj\Debug\Sayaç Timer Örneği.exe
+C:\Users\TAHSİN\Source\Repos\Sayaç Timer Örneği\Sayaç Timer Örneği\obj\Debug\Sayaç Timer Örneği.pdb
