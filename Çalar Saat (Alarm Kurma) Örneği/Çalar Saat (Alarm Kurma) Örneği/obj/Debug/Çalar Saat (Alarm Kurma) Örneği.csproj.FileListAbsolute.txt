@@ -1,0 +1,15 @@
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\bin\Debug\Çalar Saat (Alarm Kurma) Örneği.exe.config
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\bin\Debug\Çalar Saat (Alarm Kurma) Örneği.exe
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\bin\Debug\Çalar Saat (Alarm Kurma) Örneği.pdb
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\bin\Debug\Interop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\obj\Debug\Çalar Saat (Alarm Kurma) Örneği.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\obj\Debug\Interop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\obj\Debug\Çalar Saat (Alarm Kurma) Örneği.csproj.ResolveComReference.cache
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\obj\Debug\Çalar_Saat__Alarm_Kurma__Örneği.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\obj\Debug\Çalar_Saat__Alarm_Kurma__Örneği.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\obj\Debug\Çalar Saat (Alarm Kurma) Örneği.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\obj\Debug\Çalar Saat (Alarm Kurma) Örneği.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\obj\Debug\Çalar Saat (Alarm Kurma) Örneği.exe
+C:\Users\TAHSİN\Source\Repos\Çalar Saat (Alarm Kurma) Örneği\Çalar Saat (Alarm Kurma) Örneği\obj\Debug\Çalar Saat (Alarm Kurma) Örneği.pdb
