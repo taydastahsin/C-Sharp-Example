@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Trafik Lambası Similasyonu\Trafik Lambası Similasyonu\bin\Debug\Trafik Lambası Similasyonu.exe.config
+C:\Users\TAHSİN\Source\Repos\Trafik Lambası Similasyonu\Trafik Lambası Similasyonu\bin\Debug\Trafik Lambası Similasyonu.exe
+C:\Users\TAHSİN\Source\Repos\Trafik Lambası Similasyonu\Trafik Lambası Similasyonu\bin\Debug\Trafik Lambası Similasyonu.pdb
+C:\Users\TAHSİN\Source\Repos\Trafik Lambası Similasyonu\Trafik Lambası Similasyonu\obj\Debug\Trafik Lambası Similasyonu.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Trafik Lambası Similasyonu\Trafik Lambası Similasyonu\obj\Debug\Trafik_Lambası_Similasyonu.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Trafik Lambası Similasyonu\Trafik Lambası Similasyonu\obj\Debug\Trafik_Lambası_Similasyonu.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Trafik Lambası Similasyonu\Trafik Lambası Similasyonu\obj\Debug\Trafik Lambası Similasyonu.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Trafik Lambası Similasyonu\Trafik Lambası Similasyonu\obj\Debug\Trafik Lambası Similasyonu.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Trafik Lambası Similasyonu\Trafik Lambası Similasyonu\obj\Debug\Trafik Lambası Similasyonu.exe
+C:\Users\TAHSİN\Source\Repos\Trafik Lambası Similasyonu\Trafik Lambası Similasyonu\obj\Debug\Trafik Lambası Similasyonu.pdb
