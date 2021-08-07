@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\At Yarışı Similasyonu\At Yarışı Similasyonu\bin\Debug\At Yarışı Similasyonu.exe.config
+C:\Users\TAHSİN\Source\Repos\At Yarışı Similasyonu\At Yarışı Similasyonu\bin\Debug\At Yarışı Similasyonu.exe
+C:\Users\TAHSİN\Source\Repos\At Yarışı Similasyonu\At Yarışı Similasyonu\bin\Debug\At Yarışı Similasyonu.pdb
+C:\Users\TAHSİN\Source\Repos\At Yarışı Similasyonu\At Yarışı Similasyonu\obj\Debug\At Yarışı Similasyonu.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\At Yarışı Similasyonu\At Yarışı Similasyonu\obj\Debug\At_Yarışı_Similasyonu.Form1.resources
+C:\Users\TAHSİN\Source\Repos\At Yarışı Similasyonu\At Yarışı Similasyonu\obj\Debug\At_Yarışı_Similasyonu.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\At Yarışı Similasyonu\At Yarışı Similasyonu\obj\Debug\At Yarışı Similasyonu.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\At Yarışı Similasyonu\At Yarışı Similasyonu\obj\Debug\At Yarışı Similasyonu.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\At Yarışı Similasyonu\At Yarışı Similasyonu\obj\Debug\At Yarışı Similasyonu.exe
+C:\Users\TAHSİN\Source\Repos\At Yarışı Similasyonu\At Yarışı Similasyonu\obj\Debug\At Yarışı Similasyonu.pdb
