@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Zar Oyunu\Zar Oyunu\bin\Debug\Zar Oyunu.exe.config
+C:\Users\TAHSİN\Source\Repos\Zar Oyunu\Zar Oyunu\bin\Debug\Zar Oyunu.exe
+C:\Users\TAHSİN\Source\Repos\Zar Oyunu\Zar Oyunu\bin\Debug\Zar Oyunu.pdb
+C:\Users\TAHSİN\Source\Repos\Zar Oyunu\Zar Oyunu\obj\Debug\Zar Oyunu.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Zar Oyunu\Zar Oyunu\obj\Debug\Zar_Oyunu.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Zar Oyunu\Zar Oyunu\obj\Debug\Zar_Oyunu.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Zar Oyunu\Zar Oyunu\obj\Debug\Zar Oyunu.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Zar Oyunu\Zar Oyunu\obj\Debug\Zar Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Zar Oyunu\Zar Oyunu\obj\Debug\Zar Oyunu.exe
+C:\Users\TAHSİN\Source\Repos\Zar Oyunu\Zar Oyunu\obj\Debug\Zar Oyunu.pdb
