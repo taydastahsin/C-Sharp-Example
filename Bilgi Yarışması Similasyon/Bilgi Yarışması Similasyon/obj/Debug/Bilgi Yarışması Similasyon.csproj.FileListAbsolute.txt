@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması Similasyon\Bilgi Yarışması Similasyon\bin\Debug\Bilgi Yarışması Similasyon.exe.config
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması Similasyon\Bilgi Yarışması Similasyon\bin\Debug\Bilgi Yarışması Similasyon.exe
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması Similasyon\Bilgi Yarışması Similasyon\bin\Debug\Bilgi Yarışması Similasyon.pdb
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması Similasyon\Bilgi Yarışması Similasyon\obj\Debug\Bilgi Yarışması Similasyon.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması Similasyon\Bilgi Yarışması Similasyon\obj\Debug\Bilgi_Yarışması_Similasyon.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması Similasyon\Bilgi Yarışması Similasyon\obj\Debug\Bilgi_Yarışması_Similasyon.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması Similasyon\Bilgi Yarışması Similasyon\obj\Debug\Bilgi Yarışması Similasyon.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması Similasyon\Bilgi Yarışması Similasyon\obj\Debug\Bilgi Yarışması Similasyon.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması Similasyon\Bilgi Yarışması Similasyon\obj\Debug\Bilgi Yarışması Similasyon.exe
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması Similasyon\Bilgi Yarışması Similasyon\obj\Debug\Bilgi Yarışması Similasyon.pdb
