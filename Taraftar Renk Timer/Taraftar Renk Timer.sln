@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taraftar Renk Timer", "Taraftar Renk Timer\Taraftar Renk Timer.csproj", "{F07BDA35-0AEC-4A21-B8C5-2EECE86C40F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F07BDA35-0AEC-4A21-B8C5-2EECE86C40F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F07BDA35-0AEC-4A21-B8C5-2EECE86C40F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F07BDA35-0AEC-4A21-B8C5-2EECE86C40F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F07BDA35-0AEC-4A21-B8C5-2EECE86C40F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D23913AB-4B9D-4160-82A1-8A6EAAEF8974}
+	EndGlobalSection
+EndGlobal

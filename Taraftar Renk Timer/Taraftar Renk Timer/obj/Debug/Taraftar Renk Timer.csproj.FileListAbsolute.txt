@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Taraftar Renk Timer\Taraftar Renk Timer\bin\Debug\Taraftar Renk Timer.exe.config
+C:\Users\TAHSİN\Source\Repos\Taraftar Renk Timer\Taraftar Renk Timer\bin\Debug\Taraftar Renk Timer.exe
+C:\Users\TAHSİN\Source\Repos\Taraftar Renk Timer\Taraftar Renk Timer\bin\Debug\Taraftar Renk Timer.pdb
+C:\Users\TAHSİN\Source\Repos\Taraftar Renk Timer\Taraftar Renk Timer\obj\Debug\Taraftar Renk Timer.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Taraftar Renk Timer\Taraftar Renk Timer\obj\Debug\Taraftar_Renk_Timer.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Taraftar Renk Timer\Taraftar Renk Timer\obj\Debug\Taraftar_Renk_Timer.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Taraftar Renk Timer\Taraftar Renk Timer\obj\Debug\Taraftar Renk Timer.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Taraftar Renk Timer\Taraftar Renk Timer\obj\Debug\Taraftar Renk Timer.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Taraftar Renk Timer\Taraftar Renk Timer\obj\Debug\Taraftar Renk Timer.exe
+C:\Users\TAHSİN\Source\Repos\Taraftar Renk Timer\Taraftar Renk Timer\obj\Debug\Taraftar Renk Timer.pdb
