@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çarpım Hesaplama(Yoldam(Private terim oluşturma))", "Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma)).csproj", "{7F173C1F-0CCE-4335-9439-8FFF6F43BE33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F173C1F-0CCE-4335-9439-8FFF6F43BE33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F173C1F-0CCE-4335-9439-8FFF6F43BE33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F173C1F-0CCE-4335-9439-8FFF6F43BE33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F173C1F-0CCE-4335-9439-8FFF6F43BE33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5476F1C9-B479-4CAF-BDF1-C8C73F15DA36}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\bin\Debug\Çarpım Hesaplama(Yoldam(Private terim oluşturma)).exe.config
+C:\Users\TAHSİN\Source\Repos\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\bin\Debug\Çarpım Hesaplama(Yoldam(Private terim oluşturma)).exe
+C:\Users\TAHSİN\Source\Repos\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\bin\Debug\Çarpım Hesaplama(Yoldam(Private terim oluşturma)).pdb
+C:\Users\TAHSİN\Source\Repos\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\obj\Debug\Çarpım Hesaplama(Yoldam(Private terim oluşturma)).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\obj\Debug\Çarpım_Hesaplama_Yoldam_Private_terim_oluşturma__.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\obj\Debug\Çarpım_Hesaplama_Yoldam_Private_terim_oluşturma__.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\obj\Debug\Çarpım Hesaplama(Yoldam(Private terim oluşturma)).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\obj\Debug\Çarpım Hesaplama(Yoldam(Private terim oluşturma)).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\obj\Debug\Çarpım Hesaplama(Yoldam(Private terim oluşturma)).exe
+C:\Users\TAHSİN\Source\Repos\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\Çarpım Hesaplama(Yoldam(Private terim oluşturma))\obj\Debug\Çarpım Hesaplama(Yoldam(Private terim oluşturma)).pdb
