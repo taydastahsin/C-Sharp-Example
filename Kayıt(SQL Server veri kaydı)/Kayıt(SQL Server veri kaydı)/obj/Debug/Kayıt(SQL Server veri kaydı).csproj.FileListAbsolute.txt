@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Kayıt(SQL Server veri kaydı)\Kayıt(SQL Server veri kaydı)\bin\Debug\Kayıt(SQL Server veri kaydı).exe.config
+C:\Users\TAHSİN\Source\Repos\Kayıt(SQL Server veri kaydı)\Kayıt(SQL Server veri kaydı)\bin\Debug\Kayıt(SQL Server veri kaydı).exe
+C:\Users\TAHSİN\Source\Repos\Kayıt(SQL Server veri kaydı)\Kayıt(SQL Server veri kaydı)\bin\Debug\Kayıt(SQL Server veri kaydı).pdb
+C:\Users\TAHSİN\Source\Repos\Kayıt(SQL Server veri kaydı)\Kayıt(SQL Server veri kaydı)\obj\Debug\Kayıt(SQL Server veri kaydı).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Kayıt(SQL Server veri kaydı)\Kayıt(SQL Server veri kaydı)\obj\Debug\Kayıt_SQL_Server_veri_kaydı_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Kayıt(SQL Server veri kaydı)\Kayıt(SQL Server veri kaydı)\obj\Debug\Kayıt_SQL_Server_veri_kaydı_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Kayıt(SQL Server veri kaydı)\Kayıt(SQL Server veri kaydı)\obj\Debug\Kayıt(SQL Server veri kaydı).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Kayıt(SQL Server veri kaydı)\Kayıt(SQL Server veri kaydı)\obj\Debug\Kayıt(SQL Server veri kaydı).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Kayıt(SQL Server veri kaydı)\Kayıt(SQL Server veri kaydı)\obj\Debug\Kayıt(SQL Server veri kaydı).exe
+C:\Users\TAHSİN\Source\Repos\Kayıt(SQL Server veri kaydı)\Kayıt(SQL Server veri kaydı)\obj\Debug\Kayıt(SQL Server veri kaydı).pdb
