@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Tam Bölünenleri Hesaplama\Tam Bölünenleri Hesaplama\bin\Debug\Tam Bölünenleri Hesaplama.exe.config
+C:\Users\TAHSİN\Source\Repos\Tam Bölünenleri Hesaplama\Tam Bölünenleri Hesaplama\bin\Debug\Tam Bölünenleri Hesaplama.exe
+C:\Users\TAHSİN\Source\Repos\Tam Bölünenleri Hesaplama\Tam Bölünenleri Hesaplama\bin\Debug\Tam Bölünenleri Hesaplama.pdb
+C:\Users\TAHSİN\Source\Repos\Tam Bölünenleri Hesaplama\Tam Bölünenleri Hesaplama\obj\Debug\Tam Bölünenleri Hesaplama.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Tam Bölünenleri Hesaplama\Tam Bölünenleri Hesaplama\obj\Debug\Tam_Bölünenleri_Hesaplama.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Tam Bölünenleri Hesaplama\Tam Bölünenleri Hesaplama\obj\Debug\Tam_Bölünenleri_Hesaplama.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Tam Bölünenleri Hesaplama\Tam Bölünenleri Hesaplama\obj\Debug\Tam Bölünenleri Hesaplama.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Tam Bölünenleri Hesaplama\Tam Bölünenleri Hesaplama\obj\Debug\Tam Bölünenleri Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Tam Bölünenleri Hesaplama\Tam Bölünenleri Hesaplama\obj\Debug\Tam Bölünenleri Hesaplama.exe
+C:\Users\TAHSİN\Source\Repos\Tam Bölünenleri Hesaplama\Tam Bölünenleri Hesaplama\obj\Debug\Tam Bölünenleri Hesaplama.pdb
