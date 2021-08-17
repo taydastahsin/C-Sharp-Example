@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme)\obj\Debug\Kütüphane(KayıtANDSilme).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme)\obj\Debug\Kütüphane_KayıtANDSilme_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme)\obj\Debug\Kütüphane_KayıtANDSilme_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme)\obj\Debug\Kütüphane(KayıtANDSilme).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme)\obj\Debug\Kütüphane(KayıtANDSilme).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme)\bin\Debug\Kütüphane(KayıtANDSilme).exe.config
+C:\Users\TAHSİN\Source\Repos\Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme)\bin\Debug\Kütüphane(KayıtANDSilme).exe
+C:\Users\TAHSİN\Source\Repos\Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme)\bin\Debug\Kütüphane(KayıtANDSilme).pdb
+C:\Users\TAHSİN\Source\Repos\Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme)\obj\Debug\Kütüphane(KayıtANDSilme).exe
+C:\Users\TAHSİN\Source\Repos\Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme)\obj\Debug\Kütüphane(KayıtANDSilme).pdb

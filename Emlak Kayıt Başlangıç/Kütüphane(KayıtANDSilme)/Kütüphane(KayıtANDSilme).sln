@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kütüphane(KayıtANDSilme)", "Kütüphane(KayıtANDSilme)\Kütüphane(KayıtANDSilme).csproj", "{3CBB88FC-83A3-4746-8DB6-6AEF730FC902}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CBB88FC-83A3-4746-8DB6-6AEF730FC902}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CBB88FC-83A3-4746-8DB6-6AEF730FC902}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CBB88FC-83A3-4746-8DB6-6AEF730FC902}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CBB88FC-83A3-4746-8DB6-6AEF730FC902}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DC9622-872F-4C83-8C3E-D7BC5B9E2AEF}
+	EndGlobalSection
+EndGlobal
