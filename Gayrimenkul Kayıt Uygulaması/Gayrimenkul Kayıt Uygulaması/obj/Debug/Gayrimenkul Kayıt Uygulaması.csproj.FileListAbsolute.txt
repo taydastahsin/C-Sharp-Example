@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Gayrimenkul Kayıt Uygulaması\Gayrimenkul Kayıt Uygulaması\bin\Debug\Gayrimenkul Kayıt Uygulaması.exe.config
+C:\Users\TAHSİN\Source\Repos\Gayrimenkul Kayıt Uygulaması\Gayrimenkul Kayıt Uygulaması\bin\Debug\Gayrimenkul Kayıt Uygulaması.exe
+C:\Users\TAHSİN\Source\Repos\Gayrimenkul Kayıt Uygulaması\Gayrimenkul Kayıt Uygulaması\bin\Debug\Gayrimenkul Kayıt Uygulaması.pdb
+C:\Users\TAHSİN\Source\Repos\Gayrimenkul Kayıt Uygulaması\Gayrimenkul Kayıt Uygulaması\obj\Debug\Gayrimenkul Kayıt Uygulaması.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Gayrimenkul Kayıt Uygulaması\Gayrimenkul Kayıt Uygulaması\obj\Debug\Gayrimenkul_Kayıt_Uygulaması.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Gayrimenkul Kayıt Uygulaması\Gayrimenkul Kayıt Uygulaması\obj\Debug\Gayrimenkul_Kayıt_Uygulaması.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Gayrimenkul Kayıt Uygulaması\Gayrimenkul Kayıt Uygulaması\obj\Debug\Gayrimenkul Kayıt Uygulaması.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Gayrimenkul Kayıt Uygulaması\Gayrimenkul Kayıt Uygulaması\obj\Debug\Gayrimenkul Kayıt Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Gayrimenkul Kayıt Uygulaması\Gayrimenkul Kayıt Uygulaması\obj\Debug\Gayrimenkul Kayıt Uygulaması.exe
+C:\Users\TAHSİN\Source\Repos\Gayrimenkul Kayıt Uygulaması\Gayrimenkul Kayıt Uygulaması\obj\Debug\Gayrimenkul Kayıt Uygulaması.pdb
