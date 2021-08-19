@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Bölünen Sayı ile Toplamları\Bölünen Sayı ile Toplamları\bin\Debug\Bölünen Sayı ile Toplamları.exe.config
+C:\Users\TAHSİN\Source\Repos\Bölünen Sayı ile Toplamları\Bölünen Sayı ile Toplamları\bin\Debug\Bölünen Sayı ile Toplamları.exe
+C:\Users\TAHSİN\Source\Repos\Bölünen Sayı ile Toplamları\Bölünen Sayı ile Toplamları\bin\Debug\Bölünen Sayı ile Toplamları.pdb
+C:\Users\TAHSİN\Source\Repos\Bölünen Sayı ile Toplamları\Bölünen Sayı ile Toplamları\obj\Debug\Bölünen Sayı ile Toplamları.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Bölünen Sayı ile Toplamları\Bölünen Sayı ile Toplamları\obj\Debug\Bölünen_Sayı_ile_Toplamları.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Bölünen Sayı ile Toplamları\Bölünen Sayı ile Toplamları\obj\Debug\Bölünen_Sayı_ile_Toplamları.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Bölünen Sayı ile Toplamları\Bölünen Sayı ile Toplamları\obj\Debug\Bölünen Sayı ile Toplamları.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Bölünen Sayı ile Toplamları\Bölünen Sayı ile Toplamları\obj\Debug\Bölünen Sayı ile Toplamları.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Bölünen Sayı ile Toplamları\Bölünen Sayı ile Toplamları\obj\Debug\Bölünen Sayı ile Toplamları.exe
+C:\Users\TAHSİN\Source\Repos\Bölünen Sayı ile Toplamları\Bölünen Sayı ile Toplamları\obj\Debug\Bölünen Sayı ile Toplamları.pdb
