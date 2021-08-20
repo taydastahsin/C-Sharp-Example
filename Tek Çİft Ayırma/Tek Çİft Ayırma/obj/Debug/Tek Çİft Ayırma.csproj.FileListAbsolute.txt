@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Tek Çİft Ayırma\Tek Çİft Ayırma\bin\Debug\Tek Çİft Ayırma.exe.config
+C:\Users\TAHSİN\Source\Repos\Tek Çİft Ayırma\Tek Çİft Ayırma\bin\Debug\Tek Çİft Ayırma.exe
+C:\Users\TAHSİN\Source\Repos\Tek Çİft Ayırma\Tek Çİft Ayırma\bin\Debug\Tek Çİft Ayırma.pdb
+C:\Users\TAHSİN\Source\Repos\Tek Çİft Ayırma\Tek Çİft Ayırma\obj\Debug\Tek Çİft Ayırma.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Tek Çİft Ayırma\Tek Çİft Ayırma\obj\Debug\Tek_Çİft_Ayırma.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Tek Çİft Ayırma\Tek Çİft Ayırma\obj\Debug\Tek_Çİft_Ayırma.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Tek Çİft Ayırma\Tek Çİft Ayırma\obj\Debug\Tek Çİft Ayırma.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Tek Çİft Ayırma\Tek Çİft Ayırma\obj\Debug\Tek Çİft Ayırma.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Tek Çİft Ayırma\Tek Çİft Ayırma\obj\Debug\Tek Çİft Ayırma.exe
+C:\Users\TAHSİN\Source\Repos\Tek Çİft Ayırma\Tek Çİft Ayırma\obj\Debug\Tek Çİft Ayırma.pdb
