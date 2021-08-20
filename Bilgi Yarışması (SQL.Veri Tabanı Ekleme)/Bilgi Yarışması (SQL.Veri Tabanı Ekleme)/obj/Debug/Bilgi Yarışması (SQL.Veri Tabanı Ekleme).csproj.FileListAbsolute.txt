@@ -1,0 +1,11 @@
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\bin\Debug\Bilgi Yarışması (SQL.Veri Tabanı Ekleme).exe.config
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\bin\Debug\Bilgi Yarışması (SQL.Veri Tabanı Ekleme).exe
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\bin\Debug\Bilgi Yarışması (SQL.Veri Tabanı Ekleme).pdb
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\obj\Debug\Bilgi Yarışması (SQL.Veri Tabanı Ekleme).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\obj\Debug\Bilgi_Yarışması__SQL.Veri_Tabanı_Ekleme_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\obj\Debug\Bilgi_Yarışması__SQL.Veri_Tabanı_Ekleme_.Form2.resources
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\obj\Debug\Bilgi_Yarışması__SQL.Veri_Tabanı_Ekleme_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\obj\Debug\Bilgi Yarışması (SQL.Veri Tabanı Ekleme).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\obj\Debug\Bilgi Yarışması (SQL.Veri Tabanı Ekleme).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\obj\Debug\Bilgi Yarışması (SQL.Veri Tabanı Ekleme).exe
+C:\Users\TAHSİN\Source\Repos\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\Bilgi Yarışması (SQL.Veri Tabanı Ekleme)\obj\Debug\Bilgi Yarışması (SQL.Veri Tabanı Ekleme).pdb
