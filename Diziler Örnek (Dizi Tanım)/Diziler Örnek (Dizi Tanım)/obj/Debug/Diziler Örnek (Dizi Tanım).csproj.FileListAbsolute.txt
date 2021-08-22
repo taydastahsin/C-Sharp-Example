@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Tanım)\Diziler Örnek (Dizi Tanım)\bin\Debug\Diziler Örnek (Dizi Tanım).exe.config
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Tanım)\Diziler Örnek (Dizi Tanım)\bin\Debug\Diziler Örnek (Dizi Tanım).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Tanım)\Diziler Örnek (Dizi Tanım)\bin\Debug\Diziler Örnek (Dizi Tanım).pdb
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Tanım)\Diziler Örnek (Dizi Tanım)\obj\Debug\Diziler Örnek (Dizi Tanım).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Tanım)\Diziler Örnek (Dizi Tanım)\obj\Debug\Diziler_Örnek__Dizi_Tanım_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Tanım)\Diziler Örnek (Dizi Tanım)\obj\Debug\Diziler_Örnek__Dizi_Tanım_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Tanım)\Diziler Örnek (Dizi Tanım)\obj\Debug\Diziler Örnek (Dizi Tanım).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Tanım)\Diziler Örnek (Dizi Tanım)\obj\Debug\Diziler Örnek (Dizi Tanım).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Tanım)\Diziler Örnek (Dizi Tanım)\obj\Debug\Diziler Örnek (Dizi Tanım).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Tanım)\Diziler Örnek (Dizi Tanım)\obj\Debug\Diziler Örnek (Dizi Tanım).pdb
