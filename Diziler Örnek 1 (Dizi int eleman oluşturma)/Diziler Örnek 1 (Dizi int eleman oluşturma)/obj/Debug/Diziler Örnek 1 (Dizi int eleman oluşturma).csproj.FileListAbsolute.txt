@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 1 (Dizi int eleman oluşturma)\Diziler Örnek 1 (Dizi int eleman oluşturma)\bin\Debug\Diziler Örnek 1 (Dizi int eleman oluşturma).exe.config
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 1 (Dizi int eleman oluşturma)\Diziler Örnek 1 (Dizi int eleman oluşturma)\bin\Debug\Diziler Örnek 1 (Dizi int eleman oluşturma).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 1 (Dizi int eleman oluşturma)\Diziler Örnek 1 (Dizi int eleman oluşturma)\bin\Debug\Diziler Örnek 1 (Dizi int eleman oluşturma).pdb
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 1 (Dizi int eleman oluşturma)\Diziler Örnek 1 (Dizi int eleman oluşturma)\obj\Debug\Diziler Örnek 1 (Dizi int eleman oluşturma).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 1 (Dizi int eleman oluşturma)\Diziler Örnek 1 (Dizi int eleman oluşturma)\obj\Debug\Diziler_Örnek_1__Dizi_int_eleman_oluşturma_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 1 (Dizi int eleman oluşturma)\Diziler Örnek 1 (Dizi int eleman oluşturma)\obj\Debug\Diziler_Örnek_1__Dizi_int_eleman_oluşturma_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 1 (Dizi int eleman oluşturma)\Diziler Örnek 1 (Dizi int eleman oluşturma)\obj\Debug\Diziler Örnek 1 (Dizi int eleman oluşturma).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 1 (Dizi int eleman oluşturma)\Diziler Örnek 1 (Dizi int eleman oluşturma)\obj\Debug\Diziler Örnek 1 (Dizi int eleman oluşturma).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 1 (Dizi int eleman oluşturma)\Diziler Örnek 1 (Dizi int eleman oluşturma)\obj\Debug\Diziler Örnek 1 (Dizi int eleman oluşturma).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 1 (Dizi int eleman oluşturma)\Diziler Örnek 1 (Dizi int eleman oluşturma)\obj\Debug\Diziler Örnek 1 (Dizi int eleman oluşturma).pdb
