@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\bin\Debug\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma).exe.config
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\bin\Debug\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\bin\Debug\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma).pdb
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\obj\Debug\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\obj\Debug\Diziler_Örnek_2__Dizi_Toplama__Çıkarma__Çarpma_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\obj\Debug\Diziler_Örnek_2__Dizi_Toplama__Çıkarma__Çarpma_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\obj\Debug\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\obj\Debug\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\obj\Debug\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma)\obj\Debug\Diziler Örnek 2 (Dizi Toplama, Çıkarma, Çarpma).pdb
