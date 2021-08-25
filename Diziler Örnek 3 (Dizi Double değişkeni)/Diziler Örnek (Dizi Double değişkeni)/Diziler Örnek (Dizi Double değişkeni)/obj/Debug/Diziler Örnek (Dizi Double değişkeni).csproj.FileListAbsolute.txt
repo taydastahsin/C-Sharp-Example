@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Double değişkeni)\Diziler Örnek (Dizi Double değişkeni)\bin\Debug\Diziler Örnek (Dizi Double değişkeni).exe.config
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Double değişkeni)\Diziler Örnek (Dizi Double değişkeni)\bin\Debug\Diziler Örnek (Dizi Double değişkeni).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Double değişkeni)\Diziler Örnek (Dizi Double değişkeni)\bin\Debug\Diziler Örnek (Dizi Double değişkeni).pdb
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Double değişkeni)\Diziler Örnek (Dizi Double değişkeni)\obj\Debug\Diziler Örnek (Dizi Double değişkeni).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Double değişkeni)\Diziler Örnek (Dizi Double değişkeni)\obj\Debug\Diziler_Örnek__Dizi_Double_değişkeni_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Double değişkeni)\Diziler Örnek (Dizi Double değişkeni)\obj\Debug\Diziler_Örnek__Dizi_Double_değişkeni_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Double değişkeni)\Diziler Örnek (Dizi Double değişkeni)\obj\Debug\Diziler Örnek (Dizi Double değişkeni).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Double değişkeni)\Diziler Örnek (Dizi Double değişkeni)\obj\Debug\Diziler Örnek (Dizi Double değişkeni).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Double değişkeni)\Diziler Örnek (Dizi Double değişkeni)\obj\Debug\Diziler Örnek (Dizi Double değişkeni).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek (Dizi Double değişkeni)\Diziler Örnek (Dizi Double değişkeni)\obj\Debug\Diziler Örnek (Dizi Double değişkeni).pdb
