@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\bin\Debug\Diziler Örnek 4 (Dizi ile Foreach kullanımı).exe.config
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\bin\Debug\Diziler Örnek 4 (Dizi ile Foreach kullanımı).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\bin\Debug\Diziler Örnek 4 (Dizi ile Foreach kullanımı).pdb
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\obj\Debug\Diziler Örnek 4 (Dizi ile Foreach kullanımı).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\obj\Debug\Diziler_Örnek_4__Dizi_ile_Foreach_kullanımı_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\obj\Debug\Diziler_Örnek_4__Dizi_ile_Foreach_kullanımı_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\obj\Debug\Diziler Örnek 4 (Dizi ile Foreach kullanımı).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\obj\Debug\Diziler Örnek 4 (Dizi ile Foreach kullanımı).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\obj\Debug\Diziler Örnek 4 (Dizi ile Foreach kullanımı).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\Diziler Örnek 4 (Dizi ile Foreach kullanımı)\obj\Debug\Diziler Örnek 4 (Dizi ile Foreach kullanımı).pdb
