@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 5 ( Foreach Mod kullanımı)\Diziler Örnek 5 ( Foreach Mod kullanımı)\bin\Debug\Diziler Örnek 5 ( Foreach Mod kullanımı).exe.config
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 5 ( Foreach Mod kullanımı)\Diziler Örnek 5 ( Foreach Mod kullanımı)\bin\Debug\Diziler Örnek 5 ( Foreach Mod kullanımı).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 5 ( Foreach Mod kullanımı)\Diziler Örnek 5 ( Foreach Mod kullanımı)\bin\Debug\Diziler Örnek 5 ( Foreach Mod kullanımı).pdb
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 5 ( Foreach Mod kullanımı)\Diziler Örnek 5 ( Foreach Mod kullanımı)\obj\Debug\Diziler Örnek 5 ( Foreach Mod kullanımı).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 5 ( Foreach Mod kullanımı)\Diziler Örnek 5 ( Foreach Mod kullanımı)\obj\Debug\Diziler_Örnek_5___Foreach_Mod_kullanımı_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 5 ( Foreach Mod kullanımı)\Diziler Örnek 5 ( Foreach Mod kullanımı)\obj\Debug\Diziler_Örnek_5___Foreach_Mod_kullanımı_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 5 ( Foreach Mod kullanımı)\Diziler Örnek 5 ( Foreach Mod kullanımı)\obj\Debug\Diziler Örnek 5 ( Foreach Mod kullanımı).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 5 ( Foreach Mod kullanımı)\Diziler Örnek 5 ( Foreach Mod kullanımı)\obj\Debug\Diziler Örnek 5 ( Foreach Mod kullanımı).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 5 ( Foreach Mod kullanımı)\Diziler Örnek 5 ( Foreach Mod kullanımı)\obj\Debug\Diziler Örnek 5 ( Foreach Mod kullanımı).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 5 ( Foreach Mod kullanımı)\Diziler Örnek 5 ( Foreach Mod kullanımı)\obj\Debug\Diziler Örnek 5 ( Foreach Mod kullanımı).pdb
