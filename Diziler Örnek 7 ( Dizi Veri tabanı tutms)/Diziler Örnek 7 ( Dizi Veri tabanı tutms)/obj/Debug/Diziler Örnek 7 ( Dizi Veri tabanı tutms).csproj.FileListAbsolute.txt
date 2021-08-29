@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\bin\Debug\Diziler Örnek 7 ( Dizi Veri tabanı tutms).exe.config
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\bin\Debug\Diziler Örnek 7 ( Dizi Veri tabanı tutms).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\bin\Debug\Diziler Örnek 7 ( Dizi Veri tabanı tutms).pdb
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\obj\Debug\Diziler Örnek 7 ( Dizi Veri tabanı tutms).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\obj\Debug\Diziler_Örnek_7___Dizi_Veri_tabanı_tutms_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\obj\Debug\Diziler_Örnek_7___Dizi_Veri_tabanı_tutms_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\obj\Debug\Diziler Örnek 7 ( Dizi Veri tabanı tutms).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\obj\Debug\Diziler Örnek 7 ( Dizi Veri tabanı tutms).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\obj\Debug\Diziler Örnek 7 ( Dizi Veri tabanı tutms).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\Diziler Örnek 7 ( Dizi Veri tabanı tutms)\obj\Debug\Diziler Örnek 7 ( Dizi Veri tabanı tutms).pdb
