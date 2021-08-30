@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 8 ( Dizide işlemler)\Diziler Örnek 8 ( Dizide işlemler)\bin\Debug\Diziler Örnek 8 ( Dizide işlemler).exe.config
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 8 ( Dizide işlemler)\Diziler Örnek 8 ( Dizide işlemler)\bin\Debug\Diziler Örnek 8 ( Dizide işlemler).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 8 ( Dizide işlemler)\Diziler Örnek 8 ( Dizide işlemler)\bin\Debug\Diziler Örnek 8 ( Dizide işlemler).pdb
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 8 ( Dizide işlemler)\Diziler Örnek 8 ( Dizide işlemler)\obj\Debug\Diziler Örnek 8 ( Dizide işlemler).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 8 ( Dizide işlemler)\Diziler Örnek 8 ( Dizide işlemler)\obj\Debug\Diziler_Örnek_8___Dizide_işlemler_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 8 ( Dizide işlemler)\Diziler Örnek 8 ( Dizide işlemler)\obj\Debug\Diziler_Örnek_8___Dizide_işlemler_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 8 ( Dizide işlemler)\Diziler Örnek 8 ( Dizide işlemler)\obj\Debug\Diziler Örnek 8 ( Dizide işlemler).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 8 ( Dizide işlemler)\Diziler Örnek 8 ( Dizide işlemler)\obj\Debug\Diziler Örnek 8 ( Dizide işlemler).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 8 ( Dizide işlemler)\Diziler Örnek 8 ( Dizide işlemler)\obj\Debug\Diziler Örnek 8 ( Dizide işlemler).exe
+C:\Users\TAHSİN\Source\Repos\Diziler Örnek 8 ( Dizide işlemler)\Diziler Örnek 8 ( Dizide işlemler)\obj\Debug\Diziler Örnek 8 ( Dizide işlemler).pdb
