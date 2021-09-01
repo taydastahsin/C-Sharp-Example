@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\BlackJack (21 Oyunu) Similasyon\BlackJack (21 Oyunu) Similasyon\bin\Debug\BlackJack (21 Oyunu) Similasyon.exe.config
+C:\Users\TAHSİN\Source\Repos\BlackJack (21 Oyunu) Similasyon\BlackJack (21 Oyunu) Similasyon\bin\Debug\BlackJack (21 Oyunu) Similasyon.exe
+C:\Users\TAHSİN\Source\Repos\BlackJack (21 Oyunu) Similasyon\BlackJack (21 Oyunu) Similasyon\bin\Debug\BlackJack (21 Oyunu) Similasyon.pdb
+C:\Users\TAHSİN\Source\Repos\BlackJack (21 Oyunu) Similasyon\BlackJack (21 Oyunu) Similasyon\obj\Debug\BlackJack (21 Oyunu) Similasyon.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\BlackJack (21 Oyunu) Similasyon\BlackJack (21 Oyunu) Similasyon\obj\Debug\BlackJack__21_Oyunu__Similasyon.Form1.resources
+C:\Users\TAHSİN\Source\Repos\BlackJack (21 Oyunu) Similasyon\BlackJack (21 Oyunu) Similasyon\obj\Debug\BlackJack__21_Oyunu__Similasyon.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\BlackJack (21 Oyunu) Similasyon\BlackJack (21 Oyunu) Similasyon\obj\Debug\BlackJack (21 Oyunu) Similasyon.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\BlackJack (21 Oyunu) Similasyon\BlackJack (21 Oyunu) Similasyon\obj\Debug\BlackJack (21 Oyunu) Similasyon.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\BlackJack (21 Oyunu) Similasyon\BlackJack (21 Oyunu) Similasyon\obj\Debug\BlackJack (21 Oyunu) Similasyon.exe
+C:\Users\TAHSİN\Source\Repos\BlackJack (21 Oyunu) Similasyon\BlackJack (21 Oyunu) Similasyon\obj\Debug\BlackJack (21 Oyunu) Similasyon.pdb
