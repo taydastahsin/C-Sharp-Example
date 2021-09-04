@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Nesne Hareket Ettirme (Kaydırma)\Nesne Hareket Ettirme (Kaydırma)\bin\Debug\Nesne Hareket Ettirme (Kaydırma).exe.config
+C:\Users\TAHSİN\Source\Repos\Nesne Hareket Ettirme (Kaydırma)\Nesne Hareket Ettirme (Kaydırma)\bin\Debug\Nesne Hareket Ettirme (Kaydırma).exe
+C:\Users\TAHSİN\Source\Repos\Nesne Hareket Ettirme (Kaydırma)\Nesne Hareket Ettirme (Kaydırma)\bin\Debug\Nesne Hareket Ettirme (Kaydırma).pdb
+C:\Users\TAHSİN\Source\Repos\Nesne Hareket Ettirme (Kaydırma)\Nesne Hareket Ettirme (Kaydırma)\obj\Debug\Nesne Hareket Ettirme (Kaydırma).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Nesne Hareket Ettirme (Kaydırma)\Nesne Hareket Ettirme (Kaydırma)\obj\Debug\Nesne_Hareket_Ettirme__Kaydırma_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Nesne Hareket Ettirme (Kaydırma)\Nesne Hareket Ettirme (Kaydırma)\obj\Debug\Nesne_Hareket_Ettirme__Kaydırma_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Nesne Hareket Ettirme (Kaydırma)\Nesne Hareket Ettirme (Kaydırma)\obj\Debug\Nesne Hareket Ettirme (Kaydırma).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Nesne Hareket Ettirme (Kaydırma)\Nesne Hareket Ettirme (Kaydırma)\obj\Debug\Nesne Hareket Ettirme (Kaydırma).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Nesne Hareket Ettirme (Kaydırma)\Nesne Hareket Ettirme (Kaydırma)\obj\Debug\Nesne Hareket Ettirme (Kaydırma).exe
+C:\Users\TAHSİN\Source\Repos\Nesne Hareket Ettirme (Kaydırma)\Nesne Hareket Ettirme (Kaydırma)\obj\Debug\Nesne Hareket Ettirme (Kaydırma).pdb
