@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Bilet Satış Similasyonu\Bilet Satış Similasyonu\bin\Debug\Bilet Satış Similasyonu.exe.config
+C:\Users\TAHSİN\Source\Repos\Bilet Satış Similasyonu\Bilet Satış Similasyonu\bin\Debug\Bilet Satış Similasyonu.exe
+C:\Users\TAHSİN\Source\Repos\Bilet Satış Similasyonu\Bilet Satış Similasyonu\bin\Debug\Bilet Satış Similasyonu.pdb
+C:\Users\TAHSİN\Source\Repos\Bilet Satış Similasyonu\Bilet Satış Similasyonu\obj\Debug\Bilet Satış Similasyonu.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Bilet Satış Similasyonu\Bilet Satış Similasyonu\obj\Debug\Bilet_Satış_Similasyonu.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Bilet Satış Similasyonu\Bilet Satış Similasyonu\obj\Debug\Bilet_Satış_Similasyonu.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Bilet Satış Similasyonu\Bilet Satış Similasyonu\obj\Debug\Bilet Satış Similasyonu.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Bilet Satış Similasyonu\Bilet Satış Similasyonu\obj\Debug\Bilet Satış Similasyonu.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Bilet Satış Similasyonu\Bilet Satış Similasyonu\obj\Debug\Bilet Satış Similasyonu.exe
+C:\Users\TAHSİN\Source\Repos\Bilet Satış Similasyonu\Bilet Satış Similasyonu\obj\Debug\Bilet Satış Similasyonu.pdb
