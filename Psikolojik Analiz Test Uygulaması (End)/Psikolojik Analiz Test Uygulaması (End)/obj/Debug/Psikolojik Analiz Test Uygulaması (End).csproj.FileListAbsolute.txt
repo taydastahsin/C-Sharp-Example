@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Psikolojik Analiz Test Uygulaması (End)\Psikolojik Analiz Test Uygulaması (End)\bin\Debug\Psikolojik Analiz Test Uygulaması (End).exe.config
+C:\Users\TAHSİN\Source\Repos\Psikolojik Analiz Test Uygulaması (End)\Psikolojik Analiz Test Uygulaması (End)\bin\Debug\Psikolojik Analiz Test Uygulaması (End).exe
+C:\Users\TAHSİN\Source\Repos\Psikolojik Analiz Test Uygulaması (End)\Psikolojik Analiz Test Uygulaması (End)\bin\Debug\Psikolojik Analiz Test Uygulaması (End).pdb
+C:\Users\TAHSİN\Source\Repos\Psikolojik Analiz Test Uygulaması (End)\Psikolojik Analiz Test Uygulaması (End)\obj\Debug\Psikolojik Analiz Test Uygulaması (End).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Psikolojik Analiz Test Uygulaması (End)\Psikolojik Analiz Test Uygulaması (End)\obj\Debug\Psikolojik_Analiz_Test_Uygulaması__End_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Psikolojik Analiz Test Uygulaması (End)\Psikolojik Analiz Test Uygulaması (End)\obj\Debug\Psikolojik_Analiz_Test_Uygulaması__End_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Psikolojik Analiz Test Uygulaması (End)\Psikolojik Analiz Test Uygulaması (End)\obj\Debug\Psikolojik Analiz Test Uygulaması (End).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Psikolojik Analiz Test Uygulaması (End)\Psikolojik Analiz Test Uygulaması (End)\obj\Debug\Psikolojik Analiz Test Uygulaması (End).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Psikolojik Analiz Test Uygulaması (End)\Psikolojik Analiz Test Uygulaması (End)\obj\Debug\Psikolojik Analiz Test Uygulaması (End).exe
+C:\Users\TAHSİN\Source\Repos\Psikolojik Analiz Test Uygulaması (End)\Psikolojik Analiz Test Uygulaması (End)\obj\Debug\Psikolojik Analiz Test Uygulaması (End).pdb
