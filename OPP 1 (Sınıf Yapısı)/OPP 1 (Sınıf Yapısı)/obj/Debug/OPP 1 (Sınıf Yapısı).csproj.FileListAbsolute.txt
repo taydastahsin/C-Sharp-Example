@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\OPP 1 (Sınıf Yapısı)\OPP 1 (Sınıf Yapısı)\obj\Debug\OPP 1 (Sınıf Yapısı).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\OPP 1 (Sınıf Yapısı)\OPP 1 (Sınıf Yapısı)\obj\Debug\OPP_1__Sınıf_Yapısı_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\OPP 1 (Sınıf Yapısı)\OPP 1 (Sınıf Yapısı)\obj\Debug\OPP_1__Sınıf_Yapısı_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\OPP 1 (Sınıf Yapısı)\OPP 1 (Sınıf Yapısı)\obj\Debug\OPP 1 (Sınıf Yapısı).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\OPP 1 (Sınıf Yapısı)\OPP 1 (Sınıf Yapısı)\obj\Debug\OPP 1 (Sınıf Yapısı).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\OPP 1 (Sınıf Yapısı)\OPP 1 (Sınıf Yapısı)\bin\Debug\OPP 1 (Sınıf Yapısı).exe.config
+C:\Users\TAHSİN\Source\Repos\OPP 1 (Sınıf Yapısı)\OPP 1 (Sınıf Yapısı)\bin\Debug\OPP 1 (Sınıf Yapısı).exe
+C:\Users\TAHSİN\Source\Repos\OPP 1 (Sınıf Yapısı)\OPP 1 (Sınıf Yapısı)\bin\Debug\OPP 1 (Sınıf Yapısı).pdb
+C:\Users\TAHSİN\Source\Repos\OPP 1 (Sınıf Yapısı)\OPP 1 (Sınıf Yapısı)\obj\Debug\OPP 1 (Sınıf Yapısı).exe
+C:\Users\TAHSİN\Source\Repos\OPP 1 (Sınıf Yapısı)\OPP 1 (Sınıf Yapısı)\obj\Debug\OPP 1 (Sınıf Yapısı).pdb
