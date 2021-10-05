@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\OOP 1.1 (Emlak Demo)\OOP 1.1 (Emlak Demo)\bin\Debug\OOP 1.1 (Emlak Demo).exe.config
+C:\Users\TAHSİN\Source\Repos\OOP 1.1 (Emlak Demo)\OOP 1.1 (Emlak Demo)\bin\Debug\OOP 1.1 (Emlak Demo).exe
+C:\Users\TAHSİN\Source\Repos\OOP 1.1 (Emlak Demo)\OOP 1.1 (Emlak Demo)\bin\Debug\OOP 1.1 (Emlak Demo).pdb
+C:\Users\TAHSİN\Source\Repos\OOP 1.1 (Emlak Demo)\OOP 1.1 (Emlak Demo)\obj\Debug\OOP 1.1 (Emlak Demo).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\OOP 1.1 (Emlak Demo)\OOP 1.1 (Emlak Demo)\obj\Debug\OOP_1._1__Emlak_Demo_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\OOP 1.1 (Emlak Demo)\OOP 1.1 (Emlak Demo)\obj\Debug\OOP_1._1__Emlak_Demo_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\OOP 1.1 (Emlak Demo)\OOP 1.1 (Emlak Demo)\obj\Debug\OOP 1.1 (Emlak Demo).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\OOP 1.1 (Emlak Demo)\OOP 1.1 (Emlak Demo)\obj\Debug\OOP 1.1 (Emlak Demo).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\OOP 1.1 (Emlak Demo)\OOP 1.1 (Emlak Demo)\obj\Debug\OOP 1.1 (Emlak Demo).exe
+C:\Users\TAHSİN\Source\Repos\OOP 1.1 (Emlak Demo)\OOP 1.1 (Emlak Demo)\obj\Debug\OOP 1.1 (Emlak Demo).pdb
