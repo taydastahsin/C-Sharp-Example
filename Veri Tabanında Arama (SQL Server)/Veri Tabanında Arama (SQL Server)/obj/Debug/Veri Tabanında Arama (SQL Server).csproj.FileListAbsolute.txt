@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Veri Tabanında Arama (SQL Server)\Veri Tabanında Arama (SQL Server)\bin\Debug\Veri Tabanında Arama (SQL Server).exe.config
+C:\Users\TAHSİN\Source\Repos\Veri Tabanında Arama (SQL Server)\Veri Tabanında Arama (SQL Server)\bin\Debug\Veri Tabanında Arama (SQL Server).exe
+C:\Users\TAHSİN\Source\Repos\Veri Tabanında Arama (SQL Server)\Veri Tabanında Arama (SQL Server)\bin\Debug\Veri Tabanında Arama (SQL Server).pdb
+C:\Users\TAHSİN\Source\Repos\Veri Tabanında Arama (SQL Server)\Veri Tabanında Arama (SQL Server)\obj\Debug\Veri Tabanında Arama (SQL Server).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Veri Tabanında Arama (SQL Server)\Veri Tabanında Arama (SQL Server)\obj\Debug\Veri_Tabanında_Arama__SQL_Server_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Veri Tabanında Arama (SQL Server)\Veri Tabanında Arama (SQL Server)\obj\Debug\Veri_Tabanında_Arama__SQL_Server_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Veri Tabanında Arama (SQL Server)\Veri Tabanında Arama (SQL Server)\obj\Debug\Veri Tabanında Arama (SQL Server).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Veri Tabanında Arama (SQL Server)\Veri Tabanında Arama (SQL Server)\obj\Debug\Veri Tabanında Arama (SQL Server).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Veri Tabanında Arama (SQL Server)\Veri Tabanında Arama (SQL Server)\obj\Debug\Veri Tabanında Arama (SQL Server).exe
+C:\Users\TAHSİN\Source\Repos\Veri Tabanında Arama (SQL Server)\Veri Tabanında Arama (SQL Server)\obj\Debug\Veri Tabanında Arama (SQL Server).pdb
