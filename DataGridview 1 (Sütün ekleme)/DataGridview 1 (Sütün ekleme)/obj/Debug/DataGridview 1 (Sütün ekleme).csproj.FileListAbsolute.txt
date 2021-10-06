@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\DataGridview 1 (Sütün ekleme)\DataGridview 1 (Sütün ekleme)\bin\Debug\DataGridview 1 (Sütün ekleme).exe.config
+C:\Users\TAHSİN\Source\Repos\DataGridview 1 (Sütün ekleme)\DataGridview 1 (Sütün ekleme)\bin\Debug\DataGridview 1 (Sütün ekleme).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 1 (Sütün ekleme)\DataGridview 1 (Sütün ekleme)\bin\Debug\DataGridview 1 (Sütün ekleme).pdb
+C:\Users\TAHSİN\Source\Repos\DataGridview 1 (Sütün ekleme)\DataGridview 1 (Sütün ekleme)\obj\Debug\DataGridview 1 (Sütün ekleme).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1 (Sütün ekleme)\DataGridview 1 (Sütün ekleme)\obj\Debug\DataGridview_1__Sütün_ekleme_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 1 (Sütün ekleme)\DataGridview 1 (Sütün ekleme)\obj\Debug\DataGridview_1__Sütün_ekleme_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 1 (Sütün ekleme)\DataGridview 1 (Sütün ekleme)\obj\Debug\DataGridview 1 (Sütün ekleme).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1 (Sütün ekleme)\DataGridview 1 (Sütün ekleme)\obj\Debug\DataGridview 1 (Sütün ekleme).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1 (Sütün ekleme)\DataGridview 1 (Sütün ekleme)\obj\Debug\DataGridview 1 (Sütün ekleme).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 1 (Sütün ekleme)\DataGridview 1 (Sütün ekleme)\obj\Debug\DataGridview 1 (Sütün ekleme).pdb
