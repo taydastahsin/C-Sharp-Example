@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.1 (Veri kaydetme)\DataGridview 1.1 (Veri kaydetme)\bin\Debug\DataGridview 1.1 (Veri kaydetme).exe.config
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.1 (Veri kaydetme)\DataGridview 1.1 (Veri kaydetme)\bin\Debug\DataGridview 1.1 (Veri kaydetme).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.1 (Veri kaydetme)\DataGridview 1.1 (Veri kaydetme)\bin\Debug\DataGridview 1.1 (Veri kaydetme).pdb
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.1 (Veri kaydetme)\DataGridview 1.1 (Veri kaydetme)\obj\Debug\DataGridview 1.1 (Veri kaydetme).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.1 (Veri kaydetme)\DataGridview 1.1 (Veri kaydetme)\obj\Debug\DataGridview_1._1__Veri_kaydetme_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.1 (Veri kaydetme)\DataGridview 1.1 (Veri kaydetme)\obj\Debug\DataGridview_1._1__Veri_kaydetme_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.1 (Veri kaydetme)\DataGridview 1.1 (Veri kaydetme)\obj\Debug\DataGridview 1.1 (Veri kaydetme).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.1 (Veri kaydetme)\DataGridview 1.1 (Veri kaydetme)\obj\Debug\DataGridview 1.1 (Veri kaydetme).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.1 (Veri kaydetme)\DataGridview 1.1 (Veri kaydetme)\obj\Debug\DataGridview 1.1 (Veri kaydetme).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.1 (Veri kaydetme)\DataGridview 1.1 (Veri kaydetme)\obj\Debug\DataGridview 1.1 (Veri kaydetme).pdb
