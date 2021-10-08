@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.2 (veri paneli kaydetme)\DataGridview 1.2 (veri paneli kaydetme)\bin\Debug\DataGridview 1.2 (veri paneli kaydetme).exe.config
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.2 (veri paneli kaydetme)\DataGridview 1.2 (veri paneli kaydetme)\bin\Debug\DataGridview 1.2 (veri paneli kaydetme).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.2 (veri paneli kaydetme)\DataGridview 1.2 (veri paneli kaydetme)\bin\Debug\DataGridview 1.2 (veri paneli kaydetme).pdb
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.2 (veri paneli kaydetme)\DataGridview 1.2 (veri paneli kaydetme)\obj\Debug\DataGridview 1.2 (veri paneli kaydetme).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.2 (veri paneli kaydetme)\DataGridview 1.2 (veri paneli kaydetme)\obj\Debug\DataGridview_1._2__veri_paneli_kaydetme_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.2 (veri paneli kaydetme)\DataGridview 1.2 (veri paneli kaydetme)\obj\Debug\DataGridview_1._2__veri_paneli_kaydetme_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.2 (veri paneli kaydetme)\DataGridview 1.2 (veri paneli kaydetme)\obj\Debug\DataGridview 1.2 (veri paneli kaydetme).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.2 (veri paneli kaydetme)\DataGridview 1.2 (veri paneli kaydetme)\obj\Debug\DataGridview 1.2 (veri paneli kaydetme).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.2 (veri paneli kaydetme)\DataGridview 1.2 (veri paneli kaydetme)\obj\Debug\DataGridview 1.2 (veri paneli kaydetme).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.2 (veri paneli kaydetme)\DataGridview 1.2 (veri paneli kaydetme)\obj\Debug\DataGridview 1.2 (veri paneli kaydetme).pdb
