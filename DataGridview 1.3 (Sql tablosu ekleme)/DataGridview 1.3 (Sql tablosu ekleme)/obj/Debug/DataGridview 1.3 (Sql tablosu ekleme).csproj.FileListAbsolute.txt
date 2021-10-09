@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.3 (Sql tablosu ekleme)\DataGridview 1.3 (Sql tablosu ekleme)\bin\Debug\DataGridview 1.3 (Sql tablosu ekleme).exe.config
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.3 (Sql tablosu ekleme)\DataGridview 1.3 (Sql tablosu ekleme)\bin\Debug\DataGridview 1.3 (Sql tablosu ekleme).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.3 (Sql tablosu ekleme)\DataGridview 1.3 (Sql tablosu ekleme)\bin\Debug\DataGridview 1.3 (Sql tablosu ekleme).pdb
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.3 (Sql tablosu ekleme)\DataGridview 1.3 (Sql tablosu ekleme)\obj\Debug\DataGridview 1.3 (Sql tablosu ekleme).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.3 (Sql tablosu ekleme)\DataGridview 1.3 (Sql tablosu ekleme)\obj\Debug\DataGridview_1._3__Sql_tablosu_ekleme_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.3 (Sql tablosu ekleme)\DataGridview 1.3 (Sql tablosu ekleme)\obj\Debug\DataGridview_1._3__Sql_tablosu_ekleme_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.3 (Sql tablosu ekleme)\DataGridview 1.3 (Sql tablosu ekleme)\obj\Debug\DataGridview 1.3 (Sql tablosu ekleme).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.3 (Sql tablosu ekleme)\DataGridview 1.3 (Sql tablosu ekleme)\obj\Debug\DataGridview 1.3 (Sql tablosu ekleme).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.3 (Sql tablosu ekleme)\DataGridview 1.3 (Sql tablosu ekleme)\obj\Debug\DataGridview 1.3 (Sql tablosu ekleme).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 1.3 (Sql tablosu ekleme)\DataGridview 1.3 (Sql tablosu ekleme)\obj\Debug\DataGridview 1.3 (Sql tablosu ekleme).pdb
