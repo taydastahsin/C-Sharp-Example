@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\DataGridview 2 (Ekleme-Silme (Kütüphane) )\DataGridview 2 (Ekleme-Silme (Kütüphane) )\bin\Debug\DataGridview 2 (Ekleme-Silme (Kütüphane) ).exe.config
+C:\Users\TAHSİN\Source\Repos\DataGridview 2 (Ekleme-Silme (Kütüphane) )\DataGridview 2 (Ekleme-Silme (Kütüphane) )\bin\Debug\DataGridview 2 (Ekleme-Silme (Kütüphane) ).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 2 (Ekleme-Silme (Kütüphane) )\DataGridview 2 (Ekleme-Silme (Kütüphane) )\bin\Debug\DataGridview 2 (Ekleme-Silme (Kütüphane) ).pdb
+C:\Users\TAHSİN\Source\Repos\DataGridview 2 (Ekleme-Silme (Kütüphane) )\DataGridview 2 (Ekleme-Silme (Kütüphane) )\obj\Debug\DataGridview 2 (Ekleme-Silme (Kütüphane) ).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 2 (Ekleme-Silme (Kütüphane) )\DataGridview 2 (Ekleme-Silme (Kütüphane) )\obj\Debug\DataGridview_2__Ekleme_Silme__Kütüphane___.Form1.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 2 (Ekleme-Silme (Kütüphane) )\DataGridview 2 (Ekleme-Silme (Kütüphane) )\obj\Debug\DataGridview_2__Ekleme_Silme__Kütüphane___.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 2 (Ekleme-Silme (Kütüphane) )\DataGridview 2 (Ekleme-Silme (Kütüphane) )\obj\Debug\DataGridview 2 (Ekleme-Silme (Kütüphane) ).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 2 (Ekleme-Silme (Kütüphane) )\DataGridview 2 (Ekleme-Silme (Kütüphane) )\obj\Debug\DataGridview 2 (Ekleme-Silme (Kütüphane) ).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 2 (Ekleme-Silme (Kütüphane) )\DataGridview 2 (Ekleme-Silme (Kütüphane) )\obj\Debug\DataGridview 2 (Ekleme-Silme (Kütüphane) ).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 2 (Ekleme-Silme (Kütüphane) )\DataGridview 2 (Ekleme-Silme (Kütüphane) )\obj\Debug\DataGridview 2 (Ekleme-Silme (Kütüphane) ).pdb
