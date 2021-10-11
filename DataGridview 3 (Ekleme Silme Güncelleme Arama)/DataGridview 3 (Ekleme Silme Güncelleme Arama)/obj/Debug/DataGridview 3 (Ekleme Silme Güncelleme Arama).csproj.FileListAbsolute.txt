@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\DataGridview 3 (Ekleme Silme Güncelleme Arama)\DataGridview 3 (Ekleme Silme Güncelleme Arama)\bin\Debug\DataGridview 3 (Ekleme Silme Güncelleme Arama).exe.config
+C:\Users\TAHSİN\Source\Repos\DataGridview 3 (Ekleme Silme Güncelleme Arama)\DataGridview 3 (Ekleme Silme Güncelleme Arama)\bin\Debug\DataGridview 3 (Ekleme Silme Güncelleme Arama).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 3 (Ekleme Silme Güncelleme Arama)\DataGridview 3 (Ekleme Silme Güncelleme Arama)\bin\Debug\DataGridview 3 (Ekleme Silme Güncelleme Arama).pdb
+C:\Users\TAHSİN\Source\Repos\DataGridview 3 (Ekleme Silme Güncelleme Arama)\DataGridview 3 (Ekleme Silme Güncelleme Arama)\obj\Debug\DataGridview 3 (Ekleme Silme Güncelleme Arama).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 3 (Ekleme Silme Güncelleme Arama)\DataGridview 3 (Ekleme Silme Güncelleme Arama)\obj\Debug\DataGridview_3__Ekleme_Silme_Güncelleme_Arama_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 3 (Ekleme Silme Güncelleme Arama)\DataGridview 3 (Ekleme Silme Güncelleme Arama)\obj\Debug\DataGridview_3__Ekleme_Silme_Güncelleme_Arama_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\DataGridview 3 (Ekleme Silme Güncelleme Arama)\DataGridview 3 (Ekleme Silme Güncelleme Arama)\obj\Debug\DataGridview 3 (Ekleme Silme Güncelleme Arama).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 3 (Ekleme Silme Güncelleme Arama)\DataGridview 3 (Ekleme Silme Güncelleme Arama)\obj\Debug\DataGridview 3 (Ekleme Silme Güncelleme Arama).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\DataGridview 3 (Ekleme Silme Güncelleme Arama)\DataGridview 3 (Ekleme Silme Güncelleme Arama)\obj\Debug\DataGridview 3 (Ekleme Silme Güncelleme Arama).exe
+C:\Users\TAHSİN\Source\Repos\DataGridview 3 (Ekleme Silme Güncelleme Arama)\DataGridview 3 (Ekleme Silme Güncelleme Arama)\obj\Debug\DataGridview 3 (Ekleme Silme Güncelleme Arama).pdb
