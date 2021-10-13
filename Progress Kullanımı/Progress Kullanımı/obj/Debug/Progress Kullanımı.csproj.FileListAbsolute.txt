@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Progress Kullanımı\Progress Kullanımı\bin\Debug\Progress Kullanımı.exe.config
+C:\Users\TAHSİN\Source\Repos\Progress Kullanımı\Progress Kullanımı\bin\Debug\Progress Kullanımı.exe
+C:\Users\TAHSİN\Source\Repos\Progress Kullanımı\Progress Kullanımı\bin\Debug\Progress Kullanımı.pdb
+C:\Users\TAHSİN\Source\Repos\Progress Kullanımı\Progress Kullanımı\obj\Debug\Progress Kullanımı.csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Progress Kullanımı\Progress Kullanımı\obj\Debug\Progress_Kullanımı.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Progress Kullanımı\Progress Kullanımı\obj\Debug\Progress_Kullanımı.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Progress Kullanımı\Progress Kullanımı\obj\Debug\Progress Kullanımı.csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Progress Kullanımı\Progress Kullanımı\obj\Debug\Progress Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Progress Kullanımı\Progress Kullanımı\obj\Debug\Progress Kullanımı.exe
+C:\Users\TAHSİN\Source\Repos\Progress Kullanımı\Progress Kullanımı\obj\Debug\Progress Kullanımı.pdb
