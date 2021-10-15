@@ -1,0 +1,9 @@
+C:\Users\TAHSİN\Source\Repos\Progress Bar Kullanımı 1 (Basit Örnek)\Progress Bar Kullanımı 1 (Basit Örnek)\bin\Debug\Progress Bar Kullanımı 1 (Basit Örnek).exe.config
+C:\Users\TAHSİN\Source\Repos\Progress Bar Kullanımı 1 (Basit Örnek)\Progress Bar Kullanımı 1 (Basit Örnek)\bin\Debug\Progress Bar Kullanımı 1 (Basit Örnek).exe
+C:\Users\TAHSİN\Source\Repos\Progress Bar Kullanımı 1 (Basit Örnek)\Progress Bar Kullanımı 1 (Basit Örnek)\bin\Debug\Progress Bar Kullanımı 1 (Basit Örnek).pdb
+C:\Users\TAHSİN\Source\Repos\Progress Bar Kullanımı 1 (Basit Örnek)\Progress Bar Kullanımı 1 (Basit Örnek)\obj\Debug\Progress_Bar_Kullanımı_1__Basit_Örnek_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Progress Bar Kullanımı 1 (Basit Örnek)\Progress Bar Kullanımı 1 (Basit Örnek)\obj\Debug\Progress_Bar_Kullanımı_1__Basit_Örnek_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Progress Bar Kullanımı 1 (Basit Örnek)\Progress Bar Kullanımı 1 (Basit Örnek)\obj\Debug\Progress Bar Kullanımı 1 (Basit Örnek).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Progress Bar Kullanımı 1 (Basit Örnek)\Progress Bar Kullanımı 1 (Basit Örnek)\obj\Debug\Progress Bar Kullanımı 1 (Basit Örnek).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Progress Bar Kullanımı 1 (Basit Örnek)\Progress Bar Kullanımı 1 (Basit Örnek)\obj\Debug\Progress Bar Kullanımı 1 (Basit Örnek).exe
+C:\Users\TAHSİN\Source\Repos\Progress Bar Kullanımı 1 (Basit Örnek)\Progress Bar Kullanımı 1 (Basit Örnek)\obj\Debug\Progress Bar Kullanımı 1 (Basit Örnek).pdb
