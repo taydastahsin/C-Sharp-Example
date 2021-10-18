@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\TabControl (Öğrenci Bilgileri)\TabControl (Öğrenci Bilgileri)\bin\Debug\TabControl (Öğrenci Bilgileri).exe.config
+C:\Users\TAHSİN\Source\Repos\TabControl (Öğrenci Bilgileri)\TabControl (Öğrenci Bilgileri)\bin\Debug\TabControl (Öğrenci Bilgileri).exe
+C:\Users\TAHSİN\Source\Repos\TabControl (Öğrenci Bilgileri)\TabControl (Öğrenci Bilgileri)\bin\Debug\TabControl (Öğrenci Bilgileri).pdb
+C:\Users\TAHSİN\Source\Repos\TabControl (Öğrenci Bilgileri)\TabControl (Öğrenci Bilgileri)\obj\Debug\TabControl (Öğrenci Bilgileri).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\TabControl (Öğrenci Bilgileri)\TabControl (Öğrenci Bilgileri)\obj\Debug\TabControl__Öğrenci_Bilgileri_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\TabControl (Öğrenci Bilgileri)\TabControl (Öğrenci Bilgileri)\obj\Debug\TabControl__Öğrenci_Bilgileri_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\TabControl (Öğrenci Bilgileri)\TabControl (Öğrenci Bilgileri)\obj\Debug\TabControl (Öğrenci Bilgileri).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\TabControl (Öğrenci Bilgileri)\TabControl (Öğrenci Bilgileri)\obj\Debug\TabControl (Öğrenci Bilgileri).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\TabControl (Öğrenci Bilgileri)\TabControl (Öğrenci Bilgileri)\obj\Debug\TabControl (Öğrenci Bilgileri).exe
+C:\Users\TAHSİN\Source\Repos\TabControl (Öğrenci Bilgileri)\TabControl (Öğrenci Bilgileri)\obj\Debug\TabControl (Öğrenci Bilgileri).pdb
