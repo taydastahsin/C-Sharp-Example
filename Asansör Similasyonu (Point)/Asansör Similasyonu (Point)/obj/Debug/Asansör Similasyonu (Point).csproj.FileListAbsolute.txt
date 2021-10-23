@@ -1,0 +1,10 @@
+C:\Users\TAHSİN\Source\Repos\Asansör Similasyonu (Point)\Asansör Similasyonu (Point)\bin\Debug\Asansör Similasyonu (Point).exe.config
+C:\Users\TAHSİN\Source\Repos\Asansör Similasyonu (Point)\Asansör Similasyonu (Point)\bin\Debug\Asansör Similasyonu (Point).exe
+C:\Users\TAHSİN\Source\Repos\Asansör Similasyonu (Point)\Asansör Similasyonu (Point)\bin\Debug\Asansör Similasyonu (Point).pdb
+C:\Users\TAHSİN\Source\Repos\Asansör Similasyonu (Point)\Asansör Similasyonu (Point)\obj\Debug\Asansör Similasyonu (Point).csproj.AssemblyReference.cache
+C:\Users\TAHSİN\Source\Repos\Asansör Similasyonu (Point)\Asansör Similasyonu (Point)\obj\Debug\Asansör_Similasyonu__Point_.Form1.resources
+C:\Users\TAHSİN\Source\Repos\Asansör Similasyonu (Point)\Asansör Similasyonu (Point)\obj\Debug\Asansör_Similasyonu__Point_.Properties.Resources.resources
+C:\Users\TAHSİN\Source\Repos\Asansör Similasyonu (Point)\Asansör Similasyonu (Point)\obj\Debug\Asansör Similasyonu (Point).csproj.GenerateResource.cache
+C:\Users\TAHSİN\Source\Repos\Asansör Similasyonu (Point)\Asansör Similasyonu (Point)\obj\Debug\Asansör Similasyonu (Point).csproj.CoreCompileInputs.cache
+C:\Users\TAHSİN\Source\Repos\Asansör Similasyonu (Point)\Asansör Similasyonu (Point)\obj\Debug\Asansör Similasyonu (Point).exe
+C:\Users\TAHSİN\Source\Repos\Asansör Similasyonu (Point)\Asansör Similasyonu (Point)\obj\Debug\Asansör Similasyonu (Point).pdb
